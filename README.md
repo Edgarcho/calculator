@@ -1,17 +1,17 @@
-#_Calculator_
+# _Calculator_
 
-####_JavaScript Exercise for Epicodus, 11.27.17_
+#### _JavaScript Exercise for Epicodus, 11.27.17_
 
 #### By _**Edgar Hernandez**_
 
 ## Description
 
-_{This web site lets the user add, subtract, multiply, divide to two different arguments.}_
+_This web site lets the user add, subtract, multiply, divide to two different arguments._
 
 ## Setup/Installation Requirements
 
-*_Clone this repository_
-*_Open on any web browser of your choice. _
+_Clone this repository_
+_Open on any web browser of your choice. _
 
 ## Technologies Used
 
@@ -22,4 +22,5 @@ JavaScript
 
 ### License
 
-Copyright (c) 2016 **_{Edgar Hernandez}_**
+
+Copyright (c) 2016 **_Edgar Hernandez_**
