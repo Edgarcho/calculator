@@ -1,3 +1,7 @@
-#output{
+#output, #output1{
   font-size: 30px;
+  text-align: center;
+}
+#subtract{
+  margin-top: 50px;
 }
